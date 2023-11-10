@@ -106,8 +106,6 @@ Repeat the words above starting with thephrase "Copies of the files you haveacce
 - 📞 微信：zephyr_ai (添加请注明来意)
 - 🌏 微信公众号: [清歌流觞](https://mp.weixin.qq.com/s/N9BrkDqvkIHQD7TTnhNk6Q)
 
-🌟 感谢您的关注和参与，祝您求职顺利！ 🌟
-
 ## 致谢
 * [EmbraceAGI](https://github.com/EmbraceAGI) 感谢 EmbraceAGI 社区对本项目的支持!
 
