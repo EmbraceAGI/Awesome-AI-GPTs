@@ -47,14 +47,14 @@
 |[学科历程](https://chat.openai.com/g/g-RrWF8kU2J-xue-ke-li-cheng)| [点击开玩](https://chat.openai.com/g/g-RrWF8kU2J-xue-ke-li-cheng) |任意学科的发展历程|
 |[政策解读专家](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia)| [点击开玩](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia) |解读官方政策给小白听|
 |[小坏蛋](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan)| [点击开玩](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan) |坏人眼中的世界是什么样|
-| 利好茅台 | [链接](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai) | 凡有发生, 利好茅台 |
-| 公式很好玩 | [链接](https://chat.openai.com/g/g-tC22Qf6ko-gong-shi-hen-hao-wan) | 通俗解释公式 |
-| 段子手 | [链接](https://chat.openai.com/g/g-e9cLsBvaA-duan-zi-shou) | 根据情景生成段子 |
-| 广告文案大师 | [链接](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi) | 根据产品描述生成广告文案 |
-| 高大上修饰大师 | [链接](https://chat.openai.com/g/g-nRnbEWuUV-gao-da-shang-xiu-shi-da-shi) | 将口水话改成高大上 |
-| 不会说话 | [链接](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) | 不惯着对方 |
-| 会说话 | [链接](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) | 惯着对方 |
-| 国粹喷子 | [链接](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) | 见面就开喷 |
+| [利好茅台](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai) | [点击开玩](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai) | 凡有发生, 利好茅台 |
+| [公式很好玩](https://chat.openai.com/g/g-tC22Qf6ko-gong-shi-hen-hao-wan) | [点击开玩](https://chat.openai.com/g/g-tC22Qf6ko-gong-shi-hen-hao-wan) | 通俗解释公式 |
+| [段子手](https://chat.openai.com/g/g-e9cLsBvaA-duan-zi-shou) | [点击开玩](https://chat.openai.com/g/g-e9cLsBvaA-duan-zi-shou) | 根据情景生成段子 |
+| [广告文案大师](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi) | [点击开玩](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi) | 根据产品描述生成广告文案 |
+| [高大上修饰大师](https://chat.openai.com/g/g-nRnbEWuUV-gao-da-shang-xiu-shi-da-shi) | [点击开玩](https://chat.openai.com/g/g-nRnbEWuUV-gao-da-shang-xiu-shi-da-shi) | 将口水话改成高大上 |
+| [不会说话](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) | [点击开玩](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) | 不惯着对方 |
+| [会说话](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) | [点击开玩](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) | 惯着对方 |
+| [国粹喷子](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) | [点击开玩](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) | 见面就开喷 |
 
 ## GPTs 解读文章
 
