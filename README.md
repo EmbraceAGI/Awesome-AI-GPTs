@@ -29,6 +29,7 @@
 
 |GPTs|链接|介绍|
 |---|---|---|
+|[LangGPT](https://chat.openai.com/g/g-Apzuylaqk-langgpt)|[点击开玩](https://chat.openai.com/g/g-Apzuylaqk-langgpt)| 结构化提示词 LangGPT 的 GPTs 版本.|
 |[PromptPet](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)|[点击开玩](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)| 主动懂你，自动帮人写prompt的GPTs，快来用用看.|
 |[AI Tutor](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)|[点击开玩](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)| AI 教师。|
 |[爹味言论打分器](https://www.infoq.cn/article/7fgaffffykbmxw11u0bt)|[点击开玩](https://www.infoq.cn/article/7fgaffffykbmxw11u0bt)|帮你有力回击让人讨厌的爹味说教，阴阳怪气的同事和职场PUA。|
