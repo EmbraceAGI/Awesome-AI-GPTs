@@ -35,7 +35,26 @@
 |[爹味言论打分器](https://www.infoq.cn/article/7fgaffffykbmxw11u0bt)|[点击开玩](https://www.infoq.cn/article/7fgaffffykbmxw11u0bt)|帮你有力回击让人讨厌的爹味说教，阴阳怪气的同事和职场PUA。|
 |[王阳明大师](https://chat.openai.com/g/g-6jFncOc0w-wang-yang-ming)|[点击开玩](https://chat.openai.com/g/g-6jFncOc0w-wang-yang-ming)|王阳明心学。|
 |[生活小妙招助手](https://chat.openai.com/g/g-7ZUyq8WGD-life-story)|[点击开玩](https://chat.openai.com/g/g-7ZUyq8WGD-life-story)|教你各种生活小妙招。|
-
+|[cool teacher](https://chat.openai.com/g/g-SUOFbmGvx-cool-teacher)| [点击开玩](https://chat.openai.com/g/g-SUOFbmGvx-cool-teacher) |解释概念|
+|[图片描述拆解大师](https://chat.openai.com/g/g-6BEH95Qk4-tu-pian-miao-shu-chai-jie-da-shi)| [点击开玩](https://chat.openai.com/g/g-6BEH95Qk4-tu-pian-miao-shu-chai-jie-da-shi) |反推 DallE 描述语|
+|[药剂师](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi)| [点击开玩](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi) |分析优化 Prompt|
+|[内容重新定义师](https://chat.openai.com/g/g-6e6LCYcrJ-nei-rong-zhong-xin-ding-yi-shi)| [点击开玩](https://chat.openai.com/g/g-6e6LCYcrJ-nei-rong-zhong-xin-ding-yi-shi) |洗稿专家|
+|[一单词一卡片](https://chat.openai.com/g/g-KF9Pa29uA-yi-dan-ci-yi-qia-pian)| [点击开玩](https://chat.openai.com/g/g-KF9Pa29uA-yi-dan-ci-yi-qia-pian) |背英文单词|
+|[Unicode 转换器](https://chat.openai.com/g/g-QTXXSV2uX-unicode-zi-fu-ying-she-zhuan-huan-qi)| [点击开玩](https://chat.openai.com/g/g-QTXXSV2uX-unicode-zi-fu-ying-she-zhuan-huan-qi) |实现换字体的效果|
+|[缩写方法论大师](https://chat.openai.com/g/g-BKw32Cv4g-suo-xie-fang-fa-lun-da-shi)| [点击开玩](https://chat.openai.com/g/g-BKw32Cv4g-suo-xie-fang-fa-lun-da-shi) |任意缩写均反推出方法论|
+|[思考问题六角度](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-du)| [点击开玩](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-du) |从六个角度思考问题|
+|[答案之书](https://chat.openai.com/g/g-OjTL5tas6-da-an-zhi-shu)| [点击开玩](https://chat.openai.com/g/g-OjTL5tas6-da-an-zhi-shu) |答案你知道|
+|[学科历程](https://chat.openai.com/g/g-RrWF8kU2J-xue-ke-li-cheng)| [点击开玩](https://chat.openai.com/g/g-RrWF8kU2J-xue-ke-li-cheng) |任意学科的发展历程|
+|[政策解读专家](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia)| [点击开玩](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia) |解读官方政策给小白听|
+|[小坏蛋](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan)| [点击开玩](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan) |坏人眼中的世界是什么样|
+| 利好茅台 | [链接](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai) | 凡有发生, 利好茅台 |
+| 公式很好玩 | [链接](https://chat.openai.com/g/g-tC22Qf6ko-gong-shi-hen-hao-wan) | 通俗解释公式 |
+| 段子手 | [链接](https://chat.openai.com/g/g-e9cLsBvaA-duan-zi-shou) | 根据情景生成段子 |
+| 广告文案大师 | [链接](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi) | 根据产品描述生成广告文案 |
+| 高大上修饰大师 | [链接](https://chat.openai.com/g/g-nRnbEWuUV-gao-da-shang-xiu-shi-da-shi) | 将口水话改成高大上 |
+| 不会说话 | [链接](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) | 不惯着对方 |
+| 会说话 | [链接](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) | 惯着对方 |
+| 国粹喷子 | [链接](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) | 见面就开喷 |
 
 ## GPTs 解读文章
 
