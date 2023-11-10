@@ -31,7 +31,7 @@
 |---|---|---|
 |[PromptPet](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)|[点击开玩](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)| 主动懂你，自动帮人写prompt的GPTs，快来用用看.|
 |[AI Tutor](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)|[点击开玩](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)| AI 教师。|
-|[爹味言论打分器](https://www.infoq.cn/article/7fgaffffykbmxw11u0bt)|[点击开玩]((https://www.infoq.cn/article/7fgaffffykbmxw11u0bt))|帮你有力回击让人讨厌的爹味说教，阴阳怪气的同事和职场PUA。|
+|[爹味言论打分器](https://www.infoq.cn/article/7fgaffffykbmxw11u0bt)|[点击开玩](https://www.infoq.cn/article/7fgaffffykbmxw11u0bt)|帮你有力回击让人讨厌的爹味说教，阴阳怪气的同事和职场PUA。|
 |[王阳明大师](https://chat.openai.com/g/g-6jFncOc0w-wang-yang-ming)|[点击开玩](https://chat.openai.com/g/g-6jFncOc0w-wang-yang-ming)|王阳明心学。|
 |[生活小妙招助手](https://chat.openai.com/g/g-7ZUyq8WGD-life-story)|[点击开玩](https://chat.openai.com/g/g-7ZUyq8WGD-life-story)|教你各种生活小妙招。|
 
