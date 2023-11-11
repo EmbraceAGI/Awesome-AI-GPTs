@@ -33,6 +33,7 @@
 |[PromptPet](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)|[点击开玩](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)| 主动懂你，自动帮人写prompt的GPTs，快来用用看.|
 |[DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)|[点击开玩](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)| 直接生成网站.|
 |[时事热评员](https://chat.openai.com/g/g-gbfs6fy7c-shi-shi-re-ping-yuan)|[点击开玩](https://chat.openai.com/g/g-gbfs6fy7c-shi-shi-re-ping-yuan)|时事热评|
+|[AI-GPT](https://chat.openai.com/g/g-oCwXYY0x2-ai-gpt)|[点击开玩](https://chat.openai.com/g/g-oCwXYY0x2-ai-gpt)|AI 设计 AI|
 |[StableAudioGPT](https://chat.openai.com/g/g-jAr0hpLsL-stableaudiogpt)|[点击开玩](https://chat.openai.com/g/g-jAr0hpLsL-stableaudiogpt)|Stable Audio 提示词生成|
 |[AI Tutor](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)|[点击开玩](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)| AI 教师。|
 |[爹味言论打分器](https://chat.openai.com/g/g-9cHXoCfHc-die-wei-yan-lun-da-fen-qi)|[点击开玩](https://chat.openai.com/g/g-9cHXoCfHc-die-wei-yan-lun-da-fen-qi)|帮你有力回击让人讨厌的爹味说教，阴阳怪气的同事和职场PUA。|
