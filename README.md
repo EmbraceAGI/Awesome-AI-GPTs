@@ -9,6 +9,7 @@
   - [目录](#目录)
   - [GPTs 收录数据库](#gpts-收录数据库)
   - [Hot GPTs](#hot-gpts)
+  - [GPTs 开源项目](#gpts-开源项目)
   - [GPTs 解读文章](#gpts-解读文章)
   - [GPTs 攻击和安防](#gpts-攻击和安防)
     - [攻击获取 GPTs 的 Prompt](#攻击获取-gpts-的-prompt)
@@ -65,6 +66,10 @@
 | [英文病例阅读](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | [点击开玩](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | 英文病例阅读 |
 | [自动生成结构化提示词](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | [点击开玩](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | 自动生成结构化提示词 |
 
+## GPTs 开源项目
+|名称|简介|备注|
+|---|---|---|
+| [opengpts](https://github.com/langchain-ai/opengpts) | ![GitHub Repo stars](https://github.com/langchain-ai/opengpts) | This is an open source effort to create a similar experience as OpenAI's GPTs. | Langchain 官方出品的 GPTs 开源实现 |
 
 ## GPTs 解读文章
 
