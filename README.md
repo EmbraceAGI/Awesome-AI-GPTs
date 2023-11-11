@@ -27,7 +27,7 @@
 
 ## Hot GPTs 
 
-|GPTs|链接|介绍|
+|GPTs|点击开玩|介绍|
 |---|---|---|
 |[LangGPT](https://chat.openai.com/g/g-Apzuylaqk-langgpt)|[点击开玩](https://chat.openai.com/g/g-Apzuylaqk-langgpt)| 结构化提示词 LangGPT 的 GPTs 版本.|
 |[PromptPet](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)|[点击开玩](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)| 主动懂你，自动帮人写prompt的GPTs，快来用用看.|
@@ -56,11 +56,11 @@
 | [不会说话](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) | [点击开玩](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) | 不惯着对方 |
 | [会说话](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) | [点击开玩](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) | 惯着对方 |
 | [国粹喷子](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) | [点击开玩](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) | 见面就开喷 |
-| [PBL儿童项目大师](https://chat.openai.com/g/g-t3D4Cbrza-pbler-tong-xiang-mu-da-shi) | [链接](https://chat.openai.com/g/g-t3D4Cbrza-pbler-tong-xiang-mu-da-shi) | PBL儿童项目大师 |
-| [岗位职责生成器](https://chat.openai.com/g/g-gyEeXE5Oy-gang-wei-zhi-ze-sheng-cheng-qi) | [链接](https://chat.openai.com/g/g-gyEeXE5Oy-gang-wei-zhi-ze-sheng-cheng-qi) | 岗位职责生成器 |
-| [模拟专家会议](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | [链接](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | 模拟专家会议 |
-| [英文病例阅读](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | [链接](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | 英文病例阅读 |
-| [自动生成结构化提示词](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | [链接](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | 自动生成结构化提示词 |
+| [PBL儿童项目大师](https://chat.openai.com/g/g-t3D4Cbrza-pbler-tong-xiang-mu-da-shi) | [点击开玩](https://chat.openai.com/g/g-t3D4Cbrza-pbler-tong-xiang-mu-da-shi) | PBL儿童项目大师 |
+| [岗位职责生成器](https://chat.openai.com/g/g-gyEeXE5Oy-gang-wei-zhi-ze-sheng-cheng-qi) | [点击开玩](https://chat.openai.com/g/g-gyEeXE5Oy-gang-wei-zhi-ze-sheng-cheng-qi) | 岗位职责生成器 |
+| [模拟专家会议](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | [点击开玩](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | 模拟专家会议 |
+| [英文病例阅读](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | [点击开玩](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | 英文病例阅读 |
+| [自动生成结构化提示词](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | [点击开玩](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | 自动生成结构化提示词 |
 
 
 ## GPTs 解读文章
