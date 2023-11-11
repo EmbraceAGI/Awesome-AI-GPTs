@@ -24,7 +24,7 @@
 
 * [EmbraceAGI GPTs 数据库表格](https://embraceagi.feishu.cn/wiki/LIx6wagzDiF7hokct65chBaZnod) 追踪和分享大家创建的新GPTs,你可以自由地在表格中添加自己的GPTs.
 * [AI WEAVER GPTs Store](http://gpts.aiweaver.cloud/) 严选优质国内外模型GPTs应用、助手应用
-* [gptshunter](https://www.gptshunter.com/)  GPTs 收集网站
+* [GPTsHunter](https://www.gptshunter.com/)  GPTs 收集网站
 
 ## Hot GPTs 
 
