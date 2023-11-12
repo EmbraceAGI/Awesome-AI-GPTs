@@ -82,6 +82,9 @@
 |[太疯狂，GPTs上线：奥特曼表演手搓马斯克大模型，还有人已搞出第三方市场（附教程）](https://mp.weixin.qq.com/s/Nw1dKyKhYpsWleVxW-ZgUQ)|如何上手 GPTs|-|
 |[普通人如何从GPTs中赚到钱，这个可能是第一个手把手教你使用GPTs的教程](https://mp.weixin.qq.com/s/BMGXTKWH0VEuCQSkEWJkAw)|GPTs 的出现，让提示词爱好者正式分为普通用户和 提示词开发者。人人都可以有机会和能力创建定制化的机器人，并有可能从中赚到钱。|-|
 |[关于GPTs的一些思考，以及为什么暂时没有特别关注GPTs的信息。](https://m.okjike.com/originalPosts/654fc656dc2460410cb6bb83?s=eyJ1IjoiNjQyM2IwMDE4NDg5Njk1NGJjYzhkNWU1In0%3D&utm_source=wechat_session)|GPTs 的一些局限性|-|
+|[GPTs 使用体验下来的几点思考](https://web.okjike.com/originalPost/65501595f59114ac238ea97e)|纯 Prompt 实现的 GPTs 使用体验并不比之前在对话框复制 prompts 好多少。|-|
+|[一位创意疲劳者在 GPTs 热下的冷期待](https://mp.weixin.qq.com/s/wStJUvIpblf8JBZnQ6XrIQ)|真正有用的 GPT bot 应该充分利用 actions 的能力|-|
+
 
 ## GPTs 攻击和安防
 
