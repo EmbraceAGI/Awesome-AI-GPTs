@@ -72,12 +72,13 @@
 ## GPTs 开源项目
 |名称|简介|备注|
 |---|---|---|
-| [opengpts](https://github.com/langchain-ai/opengpts) | ![GitHub Repo stars](https://github.com/langchain-ai/opengpts) | This is an open source effort to create a similar experience as OpenAI's GPTs. | Langchain 官方出品的 GPTs 开源实现 |
+| [opengpts](https://github.com/langchain-ai/opengpts) | ![GitHub Repo stars](https://badgen.net/github/stars/langchain-ai/opengpts) | This is an open source effort to create a similar experience as OpenAI's GPTs. | Langchain 官方出品的 GPTs 开源实现 |
 
 ## GPTs 解读文章
 
 |名称|简介|备注|
 |---|---|---|
+|[Introducing GPTs](https://openai.com/blog/introducing-gpts)|OpenAI 官方 GPTs 介绍|-|
 |[太疯狂，GPTs上线：奥特曼表演手搓马斯克大模型，还有人已搞出第三方市场（附教程）](https://mp.weixin.qq.com/s/Nw1dKyKhYpsWleVxW-ZgUQ)|如何上手 GPTs|-|
 |[普通人如何从GPTs中赚到钱，这个可能是第一个手把手教你使用GPTs的教程](https://mp.weixin.qq.com/s/BMGXTKWH0VEuCQSkEWJkAw)|GPTs 的出现，让提示词爱好者正式分为普通用户和 提示词开发者。人人都可以有机会和能力创建定制化的机器人，并有可能从中赚到钱。|-|
 |[关于GPTs的一些思考，以及为什么暂时没有特别关注GPTs的信息。](https://m.okjike.com/originalPosts/654fc656dc2460410cb6bb83?s=eyJ1IjoiNjQyM2IwMDE4NDg5Njk1NGJjYzhkNWU1In0%3D&utm_source=wechat_session)|GPTs 的一些局限性|-|
