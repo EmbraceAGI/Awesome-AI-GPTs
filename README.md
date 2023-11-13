@@ -9,6 +9,7 @@
   - [目录](#目录)
   - [GPTs 收录数据库](#gpts-收录数据库)
   - [Hot GPTs](#hot-gpts)
+  - [GPTs 搜索](#gpts-搜索)
   - [GPTs 开源项目](#gpts-开源项目)
   - [GPTs 解读文章](#gpts-解读文章)
   - [GPTs 攻击和安防](#gpts-攻击和安防)
@@ -68,6 +69,13 @@
 | [模拟专家会议](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | [点击开玩](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | 模拟专家会议 |
 | [英文病例阅读](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | [点击开玩](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | 英文病例阅读 |
 | [自动生成结构化提示词](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | [点击开玩](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | 自动生成结构化提示词 |
+
+## GPTs 搜索
+
+直接在谷歌使用 site:http://chat.openai.com/g 进行搜索。
+
+> 来源🔗 https://x.com/dotey/status/1723840471103869267?s=20
+
 
 ## GPTs 开源项目
 |名称|简介|备注|
