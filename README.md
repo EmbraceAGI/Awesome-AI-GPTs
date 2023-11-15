@@ -69,6 +69,7 @@
 | [模拟专家会议](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | [点击开玩](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | 模拟专家会议 |
 | [英文病例阅读](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | [点击开玩](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | 英文病例阅读 |
 | [自动生成结构化提示词](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | [点击开玩](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | 自动生成结构化提示词 |
+| [完蛋！师傅被妖怪包围了！](https://chat.openai.com/g/g-7jmAmclDa-wan-dan-shi-fu-bei-yao-guai-bao-wei-liao) | [点击开玩](https://chat.openai.com/g/g-7jmAmclDa-wan-dan-shi-fu-bei-yao-guai-bao-wei-liao) | 西游记RPG线上游戏, 保护师傅唐僧 |
 
 ## GPTs 搜索
 
