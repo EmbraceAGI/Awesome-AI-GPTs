@@ -155,7 +155,7 @@ Privacy Policy: https://gpts.webpilot.ai/privacy_policy.html
 
 **3.微信群**
 
-![imgs](imgs/wx.jpg)
+![imgs](imgs/wx2.jpg)
 
 ## Star History
 
