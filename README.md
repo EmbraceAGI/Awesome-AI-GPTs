@@ -18,6 +18,8 @@
   - [GPTs 安装自定义插件](#gpts-安装自定义插件)
     - [安装 WebPilot](#安装-webpilot)
     - [安装其他插件同理，核心在获取 OpenAPI schema 和 Privacy Policy](#安装其他插件同理核心在获取-openapi-schema-和-privacy-policy)
+  - [GPTs 知识库](#gpts-知识库)
+    - [知识库自动爬虫工具](#知识库自动爬虫工具)
   - [GPTs 使用交流](#gpts-使用交流)
   - [Star History](#star-history)
   - [开源与合作](#开源与合作)
@@ -147,6 +149,13 @@ Privacy Policy: https://gpts.webpilot.ai/privacy_policy.html
 手把手图文教程（英文）： https://www.webpilot.ai/2023/11/09/how-to-add-webpilot-to-your-gpts/
 
 ### 安装其他插件同理，核心在获取 OpenAPI schema 和 Privacy Policy
+
+## GPTs 知识库
+
+### [知识库自动爬虫工具](https://github.com/BuilderIO/gpt-crawler)
+
+抓取网站生成知识文件，从 URL 创建自己的自定义 GPT
+
 
 ## GPTs 使用交流
 
