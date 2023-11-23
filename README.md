@@ -20,8 +20,8 @@
     - [安装其他插件同理，核心在获取 OpenAPI schema 和 Privacy Policy](#安装其他插件同理核心在获取-openapi-schema-和-privacy-policy)
   - [GPTs 知识库](#gpts-知识库)
     - [API 合集](#api-合集)
-    - [知识库自动爬虫工具](#知识库自动爬虫工具)
       - [API 网站](#api-网站)
+    - [知识库自动爬虫工具](#知识库自动爬虫工具)
   - [GPTs 使用交流](#gpts-使用交流)
   - [Star History](#star-history)
   - [开源与合作](#开源与合作)
@@ -164,15 +164,14 @@ API 可用于方便的使 GPTs 实现 Actions
 |[public-api-lists](https://github.com/public-api-lists/public-api-lists) |![GitHub Repo stars](https://badgen.net/github/stars/public-api-lists/public-api-lists)|A collective list of free APIs for use in software and web development 🚀|软件和web开发免费 APIs 合集|
 |[GitHub APIs](https://rapidapi.com/search/github) |-|https://rapidapi.com/search/github|软件和web开发免费 APIs 合集|
 
-### [知识库自动爬虫工具](https://github.com/BuilderIO/gpt-crawler)
-
-抓取网站生成知识文件，从 URL 创建自己的自定义 GPT
-
 
 #### API 网站
 * [public APIs](https://publicapis.io/)
 * [Rapid API Hub](https://rapidapi.com/hub) Discover and connect to thousands of APIs
   
+### [知识库自动爬虫工具](https://github.com/BuilderIO/gpt-crawler)
+
+抓取网站生成知识文件，从 URL 创建自己的自定义 GPT
 
 ## GPTs 使用交流
 
