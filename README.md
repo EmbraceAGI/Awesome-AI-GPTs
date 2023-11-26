@@ -7,7 +7,7 @@
 ## 目录
 - [Awesome AI GPTs](#awesome-ai-gpts)
   - [目录](#目录)
-  - [GPTs 收录数据库](#gpts-收录数据库)
+  - [💻 GPTs 收录数据库](#-gpts-收录数据库)
   - [Hot GPTs](#hot-gpts)
   - [GPTs 搜索](#gpts-搜索)
   - [GPTs 开源项目](#gpts-开源项目)
@@ -28,11 +28,16 @@
     - [📜 协议](#-协议)
   - [致谢](#致谢)
 
-## GPTs 收录数据库
+## 💻 GPTs 收录数据库
 
-* [EmbraceAGI GPTs 数据库表格](https://embraceagi.feishu.cn/wiki/LIx6wagzDiF7hokct65chBaZnod) 追踪和分享大家创建的新GPTs,你可以自由地在表格中添加自己的GPTs.
-* [AI WEAVER GPTs Store](http://gpts.aiweaver.cloud/) 严选优质国内外模型GPTs应用、助手应用
-* [GPTsHunter](https://www.gptshunter.com/)  GPTs 收集网站
+* 🔸[EmbraceAGI GPTs 数据库表格](https://embraceagi.feishu.cn/wiki/LIx6wagzDiF7hokct65chBaZnod) 追踪和分享大家创建的新GPTs,你可以自由地在表格中添加自己的GPTs.
+* 🔸[AI WEAVER GPTs Store](http://gpts.aiweaver.cloud/) 严选优质国内外模型GPTs应用、助手应用
+* 🔸[GPTsHunter](https://www.gptshunter.com/)  GPTs 收集网站
+* 🔸[GPTs Today](https://gptstoday.com)  GPTs 收集网站
+* 🔸[All GPTs](https://allgpts.co) GPTs 收集网站
+* 🔸[gpt-store](https://gpt-store.io) GPTs 收集网站
+* 🔸[GPTs24](http://gpts24.com) GPTs 收集网站
+* 🔸[chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) OpenAI 官方Prompt
 
 ## Hot GPTs 
 
