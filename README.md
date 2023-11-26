@@ -96,6 +96,7 @@
 
 |名称|简介|备注|
 |---|---|---|
+|[OpenAI 开发者大会](https://www.bilibili.com/video/BV1HN411G7cb)|OpenAI 开发者大会，GPTs 发布和演示|带中文字幕|
 |[Introducing GPTs](https://openai.com/blog/introducing-gpts)|OpenAI 官方 GPTs 介绍|-|
 |[Assistants API Overview (Python SDK)](https://cookbook.openai.com/examples/assistants_api_overview_python)|Assistants API 官方介绍|-|
 |[太疯狂，GPTs上线：奥特曼表演手搓马斯克大模型，还有人已搞出第三方市场（附教程）](https://mp.weixin.qq.com/s/Nw1dKyKhYpsWleVxW-ZgUQ)|如何上手 GPTs|-|
@@ -171,6 +172,8 @@ API 可用于方便的使 GPTs 实现 Actions
 
 
 #### API 网站
+* [zapier](https://zapier.com/) 知名的 API 网站
+* [n8n](https://n8n.io/) 开源可自部署的工作流神器
 * [public APIs](https://publicapis.io/)
 * [Rapid API Hub](https://rapidapi.com/hub) Discover and connect to thousands of APIs
   
