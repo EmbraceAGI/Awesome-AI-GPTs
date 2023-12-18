@@ -91,6 +91,8 @@
 |名称|简介|备注|
 |---|---|---|
 | [opengpts](https://github.com/langchain-ai/opengpts) | ![GitHub Repo stars](https://badgen.net/github/stars/langchain-ai/opengpts) | This is an open source effort to create a similar experience as OpenAI's GPTs. | Langchain 官方出品的 GPTs 开源实现 |
+| [GPTs](https://github.com/linexjlin/GPTs) | ![GitHub Repo stars](https://badgen.net/github/stars/linexjlin/GPTs) | This repo collects leaked prompts of GPTs. | GPTs Prompts 泄露合集 |
+
 
 ## GPTs 解读文章
 
