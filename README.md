@@ -92,6 +92,8 @@
 |---|---|---|
 | [opengpts](https://github.com/langchain-ai/opengpts) | ![GitHub Repo stars](https://badgen.net/github/stars/langchain-ai/opengpts) | This is an open source effort to create a similar experience as OpenAI's GPTs. | Langchain 官方出品的 GPTs 开源实现 |
 | [GPTs](https://github.com/linexjlin/GPTs) | ![GitHub Repo stars](https://badgen.net/github/stars/linexjlin/GPTs) | This repo collects leaked prompts of GPTs. | GPTs Prompts 泄露合集 |
+| [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) | ![GitHub Repo stars](https://badgen.net/github/stars/ai-boost/Awesome-GPTs) | Curated list of awesome GPTs 👍. | GPTs 合集 |
+| [awesome-gpts](https://github.com/taranjeet/awesome-gpts) | ![GitHub Repo stars](https://badgen.net/github/stars/taranjeet/awesome-gpts) | Collection of all the GPTs created by the community. | GPTs 合集 |
 
 
 ## GPTs 解读文章
