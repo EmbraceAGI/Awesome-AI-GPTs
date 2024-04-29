@@ -43,8 +43,9 @@
 
 |GPTs|点击开玩|介绍|
 |---|---|---|
-|[LangGPT](https://chat.openai.com/g/g-Apzuylaqk-langgpt)|[点击开玩](https://chat.openai.com/g/g-Apzuylaqk-langgpt)| 结构化提示词 LangGPT 的 GPTs 版本.|
+|[LangGPT](https://chat.openai.com/g/g-Apzuylaqk-langgpt)|[点击开玩](https://chat.openai.com/g/g-Apzuylaqk-langgpt)| 帮你写高质量提示词，结构化提示词 LangGPT 的 GPTs 官方版本.|
 |[PromptPet](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)|[点击开玩](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-pet)| 主动懂你，自动帮人写prompt的GPTs，快来用用看.|
+|[年薪百万的翻译小姐姐](https://chat.openai.com/g/g-2V90YGvVD-nian-xin-bai-mo-de-fan-yi-xiao-jie-jie)|[点击开玩](https://chat.openai.com/g/g-2V90YGvVD-nian-xin-bai-mo-de-fan-yi-xiao-jie-jie)| 年薪百万的翻译小姐姐为你打工！最棒的中文翻译，信达雅，超级地道优雅的中文表达！|
 |[DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)|[点击开玩](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)| 直接生成网站.|
 |[时事热评员](https://chat.openai.com/g/g-gbfs6fy7c-shi-shi-re-ping-yuan)|[点击开玩](https://chat.openai.com/g/g-gbfs6fy7c-shi-shi-re-ping-yuan)|时事热评|
 |[AI-GPT](https://chat.openai.com/g/g-oCwXYY0x2-ai-gpt)|[点击开玩](https://chat.openai.com/g/g-oCwXYY0x2-ai-gpt)|AI 设计 AI|
