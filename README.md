@@ -7,8 +7,8 @@
 ## 目录
 - [Awesome AI GPTs](#awesome-ai-gpts)
   - [目录](#目录)
-  - [💻 GPTs 收录数据库](#-gpts-收录数据库)
   - [Hot GPTs](#hot-gpts)
+  - [💻 GPTs 收录数据库](#-gpts-收录数据库)
   - [GPTs 搜索](#gpts-搜索)
   - [GPTs 开源项目](#gpts-开源项目)
   - [GPTs 解读文章](#gpts-解读文章)
@@ -28,16 +28,6 @@
     - [📜 协议](#-协议)
   - [致谢](#致谢)
 
-## 💻 GPTs 收录数据库
-
-* 🔸[EmbraceAGI GPTs 数据库表格](https://embraceagi.feishu.cn/wiki/LIx6wagzDiF7hokct65chBaZnod) 追踪和分享大家创建的新GPTs,你可以自由地在表格中添加自己的GPTs.
-* 🔸[AI WEAVER GPTs Store](http://gpts.aiweaver.cloud/) 严选优质国内外模型GPTs应用、助手应用
-* 🔸[GPTsHunter](https://www.gptshunter.com/)  GPTs 收集网站
-* 🔸[GPTs Today](https://gptstoday.com)  GPTs 收集网站
-* 🔸[All GPTs](https://allgpts.co) GPTs 收集网站
-* 🔸[gpt-store](https://gpt-store.io) GPTs 收集网站
-* 🔸[GPTs24](http://gpts24.com) GPTs 收集网站
-* 🔸[chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) OpenAI 官方Prompt
 
 ## Hot GPTs 
 
@@ -77,9 +67,18 @@
 | [PBL儿童项目大师](https://chat.openai.com/g/g-t3D4Cbrza-pbler-tong-xiang-mu-da-shi) | [点击开玩](https://chat.openai.com/g/g-t3D4Cbrza-pbler-tong-xiang-mu-da-shi) | PBL儿童项目大师 |
 | [岗位职责生成器](https://chat.openai.com/g/g-gyEeXE5Oy-gang-wei-zhi-ze-sheng-cheng-qi) | [点击开玩](https://chat.openai.com/g/g-gyEeXE5Oy-gang-wei-zhi-ze-sheng-cheng-qi) | 岗位职责生成器 |
 | [模拟专家会议](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | [点击开玩](https://chat.openai.com/g/g-Be7lRzsf6-mo-ni-zhuan-jia-hui-yi) | 模拟专家会议 |
-| [英文病例阅读](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | [点击开玩](https://chat.openai.com/g/g-opimQS0fb-ying-wen-bing-li-yue-du) | 英文病例阅读 |
-| [自动生成结构化提示词](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | [点击开玩](https://chat.openai.com/g/g-kI5r8f57x-zi-dong-jie-gou-hua-kuang-jia) | 自动生成结构化提示词 |
 | [完蛋！师傅被妖怪包围了！](https://chat.openai.com/g/g-7jmAmclDa-wan-dan-shi-fu-bei-yao-guai-bao-wei-liao) | [点击开玩](https://chat.openai.com/g/g-7jmAmclDa-wan-dan-shi-fu-bei-yao-guai-bao-wei-liao) | 西游记RPG线上游戏, 保护师傅唐僧 |
+
+## 💻 GPTs 收录数据库
+
+* 🔸[EmbraceAGI GPTs 数据库表格](https://embraceagi.feishu.cn/wiki/LIx6wagzDiF7hokct65chBaZnod) 追踪和分享大家创建的新GPTs,你可以自由地在表格中添加自己的GPTs.
+* 🔸[AI WEAVER GPTs Store](http://gpts.aiweaver.cloud/) 严选优质国内外模型GPTs应用、助手应用
+* 🔸[GPTsHunter](https://www.gptshunter.com/)  GPTs 收集网站
+* 🔸[GPTs Today](https://gptstoday.com)  GPTs 收集网站
+* 🔸[All GPTs](https://allgpts.co) GPTs 收集网站
+* 🔸[gpt-store](https://gpt-store.io) GPTs 收集网站
+* 🔸[GPTs24](http://gpts24.com) GPTs 收集网站
+* 🔸[chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) OpenAI 官方Prompt
 
 ## GPTs 搜索
 
