@@ -205,7 +205,7 @@ API 可用于方便的使 GPTs 实现 Actions
 
 
 #### API 网站
-- [Emu](https://image.tinchak0207.xyz) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
+- [Eimu](https://eimu.art) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
 * [zapier](https://zapier.com/) 知名的 API 网站
 * [n8n](https://n8n.io/) 开源可自部署的工作流神器
 * [public APIs](https://publicapis.io/)
