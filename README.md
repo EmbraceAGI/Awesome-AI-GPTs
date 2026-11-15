@@ -222,6 +222,7 @@ API 可用于方便的使 GPTs 实现 Actions
 * [n8n](https://n8n.io/) 开源可自部署的工作流神器
 * [public APIs](https://publicapis.io/)
 * [Rapid API Hub](https://rapidapi.com/hub) Discover and connect to thousands of APIs
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) Free remote Streamable HTTP MCP server for live-music venues and tour routing across the US and Canada
   
 ### [知识库自动爬虫工具](https://github.com/BuilderIO/gpt-crawler)
 
